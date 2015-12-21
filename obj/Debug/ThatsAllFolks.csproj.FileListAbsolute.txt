@@ -1,0 +1,9 @@
+D:\devl\SorinP\Sandbox\ThatsAllFolks\bin\Debug\ThatsAllFolks.exe.config
+D:\devl\SorinP\Sandbox\ThatsAllFolks\bin\Debug\ThatsAllFolks.exe
+D:\devl\SorinP\Sandbox\ThatsAllFolks\bin\Debug\ThatsAllFolks.pdb
+D:\devl\SorinP\Sandbox\ThatsAllFolks\obj\Debug\ThatsAllFolks.csprojResolveAssemblyReference.cache
+D:\devl\SorinP\Sandbox\ThatsAllFolks\obj\Debug\ThatsAllFolks.ProjectInstaller.resources
+D:\devl\SorinP\Sandbox\ThatsAllFolks\obj\Debug\ThatsAllFolks.ThatsAllFolksService.resources
+D:\devl\SorinP\Sandbox\ThatsAllFolks\obj\Debug\ThatsAllFolks.csproj.GenerateResource.Cache
+D:\devl\SorinP\Sandbox\ThatsAllFolks\obj\Debug\ThatsAllFolks.exe
+D:\devl\SorinP\Sandbox\ThatsAllFolks\obj\Debug\ThatsAllFolks.pdb
